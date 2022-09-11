@@ -28,12 +28,12 @@ const Form =()=>{
           <div style={{textAlign :'center',width:'100%'}}>
             <div style={{display:'flex',width:'90%',margin:'20px auto ',backgroundColor:'#C8CBF4'}}>
             <span style={{padding:'3px',height:24,border:'0.5px solid #8c8c8c'}}><Person2Icon/></span>
-            <input style={inputBox} type="number" /> <br/>
+            <input placeholder="Roll No" style={inputBox} type="number" /> <br/>
             <span style={{padding:'3px 5px',height:24,border:'0.5px solid #8c8c8c'}}><KeyboardIcon/></span>
             </div>
             <div style={{display:'flex',width:'90%',margin:'20px auto',backgroundColor:'#C8CBF4'}}>
             <span style={{padding:'3px',height:24,border:'0.1px solid #8c8c8c'}}><LockIcon/></span>
-            <input style={inputBox} type="password" /> <br/>
+            <input placeholder="DDMMYYYY" style={inputBox} type="password" /> <br/>
             <span style={{padding:'3px 5px',height:24,border:'0.1px solid #8c8c8c'}}><KeyboardIcon/></span>
             </div>
             <button style={{width:'90%',backgroundColor:'#4d94ff',height:32,fontSize:15,

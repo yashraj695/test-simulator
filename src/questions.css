@@ -22,7 +22,6 @@ hr{
 .imageBox{
     display: flex;
     border-left: 1px solid black;
-    justify-content: space-between;
     padding: 10px 30px;
 }
 .dropdown{

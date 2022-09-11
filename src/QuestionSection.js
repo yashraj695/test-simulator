@@ -120,8 +120,7 @@ return <div>
             <div className="imageBox">
             <img style={{width :'80px',marginRight: 5 ,height :'80px'}} 
              src={imgurl} alt="image" />
-             <img style={{width :'80px',height :'80px'}} 
-             src={imgurl}  alt="image" />
+             
             </div>
             <h3 style={{margin:0,borderLeft:'1px solid black'}}> <center>{roll}</center>  </h3>
             <div className="instructions">

@@ -18,7 +18,7 @@ const LoginPage =()=>{
          <div style={sysStyle}>
             <div>
            <p style={{fontSize:20,margin:'5px',color:'white'}}>System No:</p>
-           <p style={{fontSize:40,fontFamily:"revert-layer", color:'yellow',margin:0}}> {ctxt.state.sysno}</p>
+           <p style={{fontSize:40,fontFamily:"revert-layer", color:'yellow',margin:0}}> {ctxt.state.sysno.toUpperCase()}</p>
            <p style={{ fontSize :16,color :'white',margin:'5px 0px 5px 5px'}}>
             Kindly get in touch with the invigilator if there are any discrepancies in the
              Name and Photograph displayed on the screen or if the photograph is not yours
