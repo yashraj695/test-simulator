@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-simulator/static/css/main.9a264b44.css",
+    "main.js": "/test-simulator/static/js/main.36f5d6f0.js",
+    "static/media/logonew.jpg": "/test-simulator/static/media/logonew.84760cb2bafaee22a9fa.jpg",
+    "index.html": "/test-simulator/index.html",
+    "main.9a264b44.css.map": "/test-simulator/static/css/main.9a264b44.css.map",
+    "main.36f5d6f0.js.map": "/test-simulator/static/js/main.36f5d6f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a264b44.css",
+    "static/js/main.36f5d6f0.js"
+  ]
+}
