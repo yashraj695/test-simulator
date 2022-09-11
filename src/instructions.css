@@ -1,0 +1,41 @@
+.dpl{
+color: black;
+font-size: 10px;
+width: fit-content;
+position: absolute;
+top:-5px;
+right: 20.5%;
+}
+.dpd{
+     width: 130px;
+     padding: 2px 0px;
+     border: none;
+     float: right;
+     text-align: center;
+     margin-right:20% ;
+}
+.infBox{
+    width: fit-content;
+    max-width: 60%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.hxin{
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    width: 32px;
+    margin: 0px 5px;
+    height: 22px;
+    background-image: linear-gradient(#F36156,#DB2618,#CE2417) ;
+    clip-path: polygon(0 0, 100% 0, 100% 71%, 75% 100%, 25% 100%, 0 68%)
+}
+.proceedbtn:hover{
+    cursor: pointer;
+    background-color: #247d36 !important;
+}
+ p{
+    padding: 0;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}

@@ -1,0 +1,71 @@
+.container{
+    display: flex;
+}
+.ques{
+    flex: 1;
+    height: 100%;
+    padding-top: 0px;
+    border: 1px solid black;
+    border-right: none;
+    margin-top: -0.75px;
+}
+.marks{
+    height:350px;
+    width:260px;
+    margin-bottom: 0;
+}
+hr{
+    margin: 0;
+    height: 0.75px;
+    background-color: black;
+}
+.imageBox{
+    display: flex;
+    border-left: 1px solid black;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+.dropdown{
+    width: 90px;
+    text-decoration: none;
+    margin: 2px 10px;
+}
+.droplabel{
+    color: white;
+    margin-top: 2px;
+}
+label{
+    font-size: 16;
+    margin-top: 8px;
+    padding-left: 5px;
+}
+.radio{
+    margin-top: 10px;
+}
+.button-groups{
+    margin-top: 5px;
+    border: 1px solid black;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    background-color: white;
+    z-index: 5;
+    bottom: 0;
+}
+.button-groups button{
+    border: 0.5px solid gray;
+    margin: 8px 5px;
+    height: 25px;
+    max-height: 25px;
+}
+.button-groups button:hover{
+    cursor: pointer;
+}
+.instructions{
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 0.5px solid black;
+    border-bottom:none ;
+}

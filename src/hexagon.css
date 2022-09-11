@@ -1,0 +1,26 @@
+.hexagon {
+    position: relative;
+    width: 42px;
+    height: 25px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 15px;
+    margin: 7px 2px;
+    clip-path: polygon(30% 0%, 70% 0%, 100% 35%, 100% 100%, 0 99%, 0 35%);
+}
+.nodeBox{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 35vh;
+    margin: 5px 10px;
+    display: grid;
+    padding-right: 25px;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+.qusheader{
+    margin: 5px 8px 2px 8px;
+}
+.hexagon:hover{
+    cursor: pointer;
+}
