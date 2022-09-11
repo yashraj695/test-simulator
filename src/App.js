@@ -12,7 +12,7 @@ function App() {
      <DataState>
     <div className="App">
       <Routes>
-      <Route exact path='/' element={<Secrets/>}/>
+      <Route exact path='/test-simulator' element={<Secrets/>}/>
         <Route exact path='/login' element={<LoginPage/>}/>
         <Route exact path='/instructions' element={<InstructionPage/>}/>
         <Route exact path='/questionpage' element={<QuestionPage/>}/>
