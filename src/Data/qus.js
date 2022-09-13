@@ -1,48 +1,48 @@
 
 const q1={
     no:1,
-    qus:"720 was divided among A,B, C, D, E.  The sum received  by them was in ascending order and in Arithmetic Progression. E received 40 more than A. How much did B receive?",
-    opt1:"134",
-    opt2:"154",
-    opt3:"144",
-    opt4:"124",
+    qus:"What is Ohm's Law?",
+    opt1:"V ∝ R",
+    opt2:"V ∝ I",
+    opt3:"V ∝ 1/R",
+    opt4:"V ∝ 1/I",
     status:0
 }
 const q2={
     no:2,
-    qus:"Who portrayed the character of Allauddin Khilji in the controversial movie 'Padmavat'?",
-    opt1:"Shahid Kapoor",
-    opt2:"Ranveer Singh",
-    opt3:"Ranbir Kapoor",
-    opt4:"Rana Daggubati",
+    qus:"From where does digestion of food begin in human body?",
+    opt1:"Buccal Cavity",
+    opt2:"Stomach",
+    opt3:"Large Intestine",
+    opt4:"Small Intestine",
     status:0
 }
 const q3={
     no:3,
-    qus:"How  many  medals  did India win in the US Open Karate  Championship  held  in Las Vegas in April  2017?",
-    opt1:"17",
-    opt2:"16",
-    opt3:"12",
-    opt4:"15",
+    qus:"Which plant leaves is used as a medicine ?",
+    opt1:"Neem",
+    opt2:"Cactus",
+    opt3:"Amla",
+    opt4:"Apricot",
     status:0
 }
 const q4={
     no:4,
-    qus:"Dayanand Saraswati was the founder of which of the following missions?",
-    opt1:"Brahmo Samaj",
-    opt2:"Chinmaya Mission",
-    opt3:"Arya Samaj",
-    opt4:"Prarthana Samaj",
+    qus:"When Tata Airlines was established ?",
+    opt1:"1969",
+    opt2:"1936",
+    opt3:"1932",
+    opt4:"1948",
     status:0
 
 }
 const q5={
     no:5,
-    qus:"The mass of the Earth is:",
-    opt1:"6x10^23 kg",
-    opt2:"6x10^22 kg",
-    opt3:"6x10^24 kg",
-    opt4:"6x10^27 kg",
+    qus:"Which of the following is not a metalloid ?",
+    opt1:"Arsenic",
+    opt2:"Silicon",
+    opt3:"Antimony",
+    opt4:"Alluminium",
     status:0
 }
 const q6={
@@ -56,11 +56,11 @@ const q6={
 }
 const q7={
     no:7,
-    qus:"When did Vasco-da-gama came to India?",
-    opt1:"1492",
-    opt2:"1498",
-    opt3:"1398",
-    opt4:"1542",
+    qus:"HIV AIDS is not transmitted by which of the following",
+    opt1:"Physical SEX",
+    opt2:"Needle Of Syringe",
+    opt3:"By using commutive toilets",
+    opt4:"By using infected Razor",
     status:0
 }
 const q8={
