@@ -6,7 +6,9 @@ const DataState=(props)=>{
          "name":"Roshan Kumar",
          "roll" : 2021457896354,
          "sysno":"C005",
-         "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUGzSUbfQVEgY4TH7CZEl14ED8WXrixgU9A&usqp=CAU"
+         "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUGzSUbfQVEgY4TH7CZEl14ED8WXrixgU9A&usqp=CAU",
+         "url2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUGzSUbfQVEgY4TH7CZEl14ED8WXrixgU9A&usqp=CAU"
+
     });
     
     return(

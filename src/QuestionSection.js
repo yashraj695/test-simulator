@@ -20,6 +20,8 @@ const [qusNo,setQusNo]=useState(1);
 const roll =ctxt.state.roll;
 const name=ctxt.state.name.toUpperCase();
 const imgurl = ctxt.state.url;
+const imgurl2 = ctxt.state.url2;
+
 
 let a =new Array();
 for(let i=0;i<100;i++)a.push({opt:0,visited:false,review:false});
@@ -118,8 +120,11 @@ return <div>
                                          {/* Second Section */}
         <div className="marks">
             <div className="imageBox">
-            <img style={{width :'80px',marginRight: 5 ,height :'80px'}} 
+            <img style={{width :'80px',marginRight: 15 ,height :'80px'}} 
              src={imgurl} alt="image" />
+
+            <img style={{width :'80px',marginRight: 5 ,height :'80px'}} 
+             src={imgurl2} alt="image" />
              
             </div>
             <h3 style={{margin:0,borderLeft:'1px solid black'}}> <center>{roll}</center>  </h3>

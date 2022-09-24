@@ -1,6 +1,13 @@
 import React from "react";
 import './Details.css'
-
+ 
+export const qusData={
+  vi:0,
+  mri:0,
+  mi:0,
+  ri:0,
+  nvi:0
+};
 const Hexagon =({no})=>{
   const stl={
        backgroundImage:"linear-gradient(#68E131,#68E131, #6ABB46, #327812)",
@@ -23,7 +30,12 @@ const Details=({answer})=>{
      if(answer[i].opt!=0 && answer[i].review==true)mr++;
      if(answer[i].visited==false)nv++;
     }
-   
+    qusData.vi=v;
+    qusData.ri=r;
+    qusData.mi=m;
+    qusData.mri=mr;
+    qusData.nvi=nv;
+
 
    const insBox={
      display:'flex',

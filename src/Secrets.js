@@ -1,4 +1,3 @@
-import { HideImage } from "@mui/icons-material";
 import React,{useContext} from "react";
 import { Link } from "react-router-dom";
 import dataContext from "./contextApi/dataContext";
@@ -32,6 +31,15 @@ const Secrets=()=>{
     onChange={(e)=>{
         let temp = context.state;
         temp.url=e.target.value;
+        context.setState(temp);
+     }}
+    type={Text}/>
+    
+    <p style={{display:'flex',padding:5,justifyContent:'space-between'}}>image2</p>
+    <input 
+    onChange={(e)=>{
+        let temp = context.state;
+        temp.url2=e.target.value;
         context.setState(temp);
      }}
     type={Text}/>
