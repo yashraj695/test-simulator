@@ -51,6 +51,9 @@ const EndPage=()=>{
                         <p>{qusData.nvi}</p>
                     </div>
                  </div>
+                 
+
+                 <center style={{marginTop:200}}> <b> Thank You For Submitting Successfully </b></center>
           </div>
 }
 export default EndPage;
