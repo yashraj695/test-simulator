@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test-simulator/static/css/main.36ff5d87.css",
-    "main.js": "/test-simulator/static/js/main.ea242ebe.js",
+    "main.js": "/test-simulator/static/js/main.8d030072.js",
     "static/media/logonew.jpg": "/test-simulator/static/media/logonew.84760cb2bafaee22a9fa.jpg",
     "index.html": "/test-simulator/index.html",
     "main.36ff5d87.css.map": "/test-simulator/static/css/main.36ff5d87.css.map",
-    "main.ea242ebe.js.map": "/test-simulator/static/js/main.ea242ebe.js.map"
+    "main.8d030072.js.map": "/test-simulator/static/js/main.8d030072.js.map"
   },
   "entrypoints": [
     "static/css/main.36ff5d87.css",
-    "static/js/main.ea242ebe.js"
+    "static/js/main.8d030072.js"
   ]
 }
