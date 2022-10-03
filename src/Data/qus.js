@@ -1,93 +1,93 @@
 
 const q1={
     no:1,
-    qus:"What is Ohm's Law?",
-    opt1:"V ∝ R",
-    opt2:"V ∝ I",
-    opt3:"V ∝ 1/R",
-    opt4:"V ∝ 1/I",
+    qus:"In which year P V Sindhu won the Swiss Open title?",
+    opt1:"2022",
+    opt2:"2020",
+    opt3:"2018",
+    opt4:"2016",
     status:0
 }
 const q2={
     no:2,
-    qus:"From where does digestion of food begin in human body?",
-    opt1:"Buccal Cavity",
-    opt2:"Stomach",
-    opt3:"Large Intestine",
-    opt4:"Small Intestine",
+    qus:"When did the first five year plan last?",
+    opt1:"1951-1956",
+    opt2:"1953-1958",
+    opt3:"1955-1960",
+    opt4:"1957-1962",
     status:0
 }
 const q3={
     no:3,
-    qus:"Which plant leaves is used as a medicine ?",
-    opt1:"Neem",
-    opt2:"Cactus",
-    opt3:"Amla",
-    opt4:"Apricot",
+    qus:"Ranikhet is in which state",
+    opt1:"Uttrakhand",
+    opt2:"Kolkata",
+    opt3:"Ranchi",
+    opt4:"Mumbai",
     status:0
 }
 const q4={
     no:4,
-    qus:"When Tata Airlines was established ?",
-    opt1:"1969",
-    opt2:"1936",
-    opt3:"1932",
-    opt4:"1948",
+    qus:"Who was appointed as the director of Bhabha Atomic Research Center",
+    opt1:"Ajit Kumar",
+    opt2:"Aman Kumar",
+    opt3:"Yash Raj",
+    opt4:"Harshit",
     status:0
 
 }
 const q5={
     no:5,
-    qus:"Which of the following is not a metalloid ?",
-    opt1:"Arsenic",
-    opt2:"Silicon",
-    opt3:"Antimony",
-    opt4:"Alluminium",
+    qus:"Who has the power to extend the jurisdiction of the High Court",
+    opt1:"Supreme Court",
+    opt2:"High Court",
+    opt3:"Civil Court",
+    opt4:"Criminal Court",
     status:0
 }
 const q6={
     no:6,
-    qus:"Who was the first Home Minister of India?",
-    opt1:"Pt. Jawaharlal Nehru",
-    opt2:"Dr. Rajendra Prasad",
-    opt3:"Sardar Vallabhbhai Patel",
-    opt4:"Indira Gandhi",
+    qus:"Campaign started for free education to children of 6 to 14 years under survey education campaign",
+    opt1:"2009",
+    opt2:"2010",
+    opt3:"2011",
+    opt4:"2012",
     status:0
 }
 const q7={
     no:7,
-    qus:"HIV AIDS is not transmitted by which of the following",
-    opt1:"Physical SEX",
-    opt2:"Needle Of Syringe",
-    opt3:"By using commutive toilets",
-    opt4:"By using infected Razor",
+    qus:"What is the full form of ESIC",
+    opt1:"Employees State insurance Corporation",
+    opt2:"Employees State Insurance Company",
+    opt3:"Employees State Commutive corporating",
+    opt4:"None of the above",
     status:0
 }
 const q8={
     no:8,
-    qus:"Two trains, one 152.5 m long and the other 157.5 m long, coming from opposite directions crossed each other in 9.3 seconds. The combined speed of the two trains every hour would then be:",
-    opt1:"130 km",
-    opt2:"125 km",
-    opt3:"115 km",
-    opt4:"120 km",
+    qus:"Who has been appointed as the new chairman of ISRO in 2022 ?",
+    opt1:"Dr. S.Somnath",
+    opt2:"Dr. Minocha",
+    opt3:"Dr. Rampal",
+    opt4:"Dr. Rajnikant",
     status:0
 }
 const q9={
     no:9,
-    qus:"In the modem periodic table, which group elements have a complete outer shell?",
-    opt1:"1 s",
-    opt2:"4 s",
-    opt3:"5 f",
-    opt4:"2 f",
+    qus:"How do plants store food during photosynthesis?",
+    opt1:"Starch",
+    opt2:"Carbohydrates",
+    opt3:"Sunlight",
+    opt4:"Carbon Dioxide",
     status:0
 }
 const q10={
     no:10,
-    qus:"The book titled 'Social Harmony' is written by:",
-    opt1:"Atal Bihari Vajpayee",
-    opt2:"Shyama Prasad Mukherjee",
-    opt3:"Narendra Modi",
-    opt4:"Lal Krishna Advani",
+    qus:"Cu+O2-CuO What type of reaction and oxidation is taking place",
+    opt1:"Copper",
+    opt2:"Brass",
+    opt3:"Gold",
+    opt4:"Diamond",
     status:0
 }
 const q11={
