@@ -138,47 +138,47 @@ const q15={
 
 const q16={
     no:16,
-    qus:" person borrowed some money at 10% compound interest.If at the end of three years he returns Rs. 2662 then how much money did he borrow?",
-    opt1:"Rs.2000",
-    opt2:"Rs.1700",
-    opt3:"Rs.1900",
-    opt4:"Rs.1980",
+    qus:"AIDS disease does not spread due to",
+    opt1:"mosquito bites",
+    opt2:"infected syringe",
+    opt3:"unprotected sex",
+    opt4:"infected razor",
     status:0
 }
 const q17={
     no:17,
-    qus:"In which city is the statue of liberty?",
-    opt1:"New York",
-    opt2:"England",
-    opt3:"Spain",
-    opt4:"Rome",
+    qus:"In which state are the cardamom hills?",
+    opt1:"Kerela",
+    opt2:"Uttrakhand",
+    opt3:"Gujrat",
+    opt4:"Bihar",
     status:0
 }
 const q18={
     no:18,
-    qus: "A is 70% more competent than B. If ‘B’ does a work in 34 days,then in how many days A will be do this work?",
-    opt1: "20 days",
-    opt2: "21 days",
-    opt3: "11.2 days",
-    opt4: "15.2 days",
+    qus: "Panchayats are mentioned in which article?",
+    opt1: "Article 307",
+    opt2: "Article 314",
+    opt3: "Article 77",
+    opt4: "Article 243",
     status:0
 }
 const q19={
     no:19,
-    qus:"The area of the triangle whose vertices are given by (1, 2), (- 4, - 3) and (4, 1) is: ",
-    opt1:'7sq.units',
-    opt2:'20sq.units',
-    opt3:'10sq.units',
-    opt4:'14sq.units',
+    qus:"What is the full form of ATP",
+    opt1:"Adinosine phosphate",
+    opt2:'Adinosine pholate',
+    opt3:'Adinosine triphosphate',
+    opt4:'Adinosine biphosphate',
     status:0
 }
 const q20={
     no:20,
-    qus:" In which state will be a place having a pin code starting with the number 4?",
-    opt1: "Karnataka",
-    opt2: "Gujrat",
-    opt3: "Maharastra",
-    opt4: "Uttar Pradesh",
+    qus:" When did Annie Besant and Bal Gangadhar Tilak founded the Home Rule League?",
+    opt1: "1916",
+    opt2: "1978",
+    opt3: "1923",
+    opt4: "1942",
     status:0
 }
 const q21={
@@ -192,20 +192,20 @@ const q21={
 }
 const q22={
     no:22,
-    qus:" A trader buys some article in whole sale at Rs.150. If over and above he makes an extraexpenditure of 12%, then atnwhat price should he sell this article to make a profit of 10%.",
-    opt1:"Rs. 184.80",
-    opt2:" Rs. 179.20",
-    opt3:" Rs. 185.80",
-    opt4:"Rs. 183",
+    qus:" Who will host the 2023 Men's Hockey World Cup",
+    opt1:"Brazil",
+    opt2:"India",
+    opt3:"America",
+    opt4:"Rome",
     status:0
 }
 const q23={
     no:23,
-    qus:" Tap A fills a tank in 15 hours and tap B in 20 hours. Tap C empties it in 60 hours. A servant by mistake opens all the taps. How much time will be taken to fill up the tank?",
-    opt1:" 11 hours",
-    opt2:" 10 hours",
-    opt3:" 11.2 hours",
-    opt4:" 12.5 hours",
+    qus:" Unit of Resistance",
+    opt1:" Watt",
+    opt2:" Ohm",
+    opt3:" Simen",
+    opt4:" Hertz",
     status:0
 }
 const q24={
