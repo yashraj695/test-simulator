@@ -42,7 +42,7 @@ const q5={
     opt1:"Sunday",
     opt2:"Monday",
     opt3:"Wednesday",
-    opt4:"Thursday",
+    opt4:"Friday",
     status:0
 }
 const q6={
@@ -56,7 +56,7 @@ const q6={
 }
 const q7={
     no:7,
-    qus:"An alloy is formed by mixing aluminum and nickel in the ratio 3 : 4. To make it 36 ​​kg of aluminum must be melted with _ kg of nickel.",
+    qus:"An alloy is formed by mixing aluminium and nickel in the ratio 3 : 4. To make it 36 ​​kg of aluminium must be melted with _ kg of nickel.",
     opt1:"3",
     opt2:"48",
     opt3:"18",
