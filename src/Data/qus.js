@@ -1,11 +1,11 @@
 
 const q1={
     no:1,
-    qus:"In which year P V Sindhu won the Swiss Open title?",
-    opt1:"2022",
-    opt2:"2020",
-    opt3:"2018",
-    opt4:"2016",
+    qus:"Which region separates the troposphere from the stratosphere?",
+    opt1:"Stratopause",
+    opt2:"Mesopause",
+    opt3:"Thermopause",
+    opt4:"Tropopause",
     status:0
 }
 const q2={
@@ -19,48 +19,48 @@ const q2={
 }
 const q3={
     no:3,
-    qus:"Ranikhet is in which state",
-    opt1:"Uttrakhand",
-    opt2:"Kolkata",
-    opt3:"Ranchi",
-    opt4:"Mumbai",
+    qus:"In which year Operation Flood was launched with the goal of creating a nationwide milk grid?",
+    opt1:"1980",
+    opt2:"1970",
+    opt3:"1971",
+    opt4:"1981",
     status:0
 }
 const q4={
     no:4,
-    qus:"Who was appointed as the director of Bhabha Atomic Research Center",
-    opt1:"Ajit Kumar",
-    opt2:"Aman Kumar",
-    opt3:"Yash Raj",
-    opt4:"Harshit",
+    qus:"City F is to the north of city M. City B is to the west of city M. City C is to the east of city M. City D is to the south of city C. In which direction is city F with respect to city D?",
+    opt1:"North-East",
+    opt2:"South-west",
+    opt3:"North-west",
+    opt4:"South-east",
     status:0
 
 }
 const q5={
     no:5,
-    qus:"Who has the power to extend the jurisdiction of the High Court",
-    opt1:"Supreme Court",
-    opt2:"High Court",
-    opt3:"Civil Court",
-    opt4:"Criminal Court",
+    qus:"If 13th May 2007 is Sunday, then what day of the week will 17th May 2013 be?",
+    opt1:"Sunday",
+    opt2:"Monday",
+    opt3:"Wednesday",
+    opt4:"Thursday",
     status:0
 }
 const q6={
     no:6,
-    qus:"Campaign started for free education to children of 6 to 14 years under survey education campaign",
-    opt1:"2009",
-    opt2:"2010",
-    opt3:"2011",
-    opt4:"2012",
+    qus:"Which of the following statements about Plaster of Paris is false?",
+    opt1:"It is used to make surfaces smooth before painting.",
+    opt2:"It is used in making casts for cosmetics and sculptures.",
+    opt3:"It is also known as calcium sulfate dihydrate",
+    opt4:"It is used to set broken bones",
     status:0
 }
 const q7={
     no:7,
-    qus:"What is the full form of ESIC",
-    opt1:"Employees State insurance Corporation",
-    opt2:"Employees State Insurance Company",
-    opt3:"Employees State Commutive corporating",
-    opt4:"None of the above",
+    qus:"An alloy is formed by mixing aluminum and nickel in the ratio 3 : 4. To make it 36 ​​kg of aluminum must be melted with _ kg of nickel.",
+    opt1:"3",
+    opt2:"48",
+    opt3:"18",
+    opt4:"32",
     status:0
 }
 const q8={
@@ -894,11 +894,11 @@ const q99={
 }
 const q100={
     no:100,
-    qus:"In an examination 65% students passed in Civics and 60% in History. 40% passed in both subjects. If 90 students failed in History and Civics both,what is the total number of students?",
-    opt1:"600",
-    opt2:"650",
-    opt3:"750",
-    opt4:"700",
+    qus:"Which of the following substances shows biological magnification?",
+    opt1:"Chemical insecticide",
+    opt2:"Carbon soot deposition",
+    opt3:"Green house gas",
+    opt4:"Acidic Smoke",
     status:0
 }
 
