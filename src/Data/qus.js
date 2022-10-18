@@ -20,19 +20,19 @@ const q2={
 const q3={
     no:3,
     qus:"In which year Operation Flood was launched with the goal of creating a nationwide milk grid?",
-    opt1:"1980",
+    opt1:"1981",
     opt2:"1970",
-    opt3:"1971",
-    opt4:"1981",
+    opt3:"1979",
+    opt4:"1985",
     status:0
 }
 const q4={
     no:4,
     qus:"City F is to the north of city M. City B is to the west of city M. City C is to the east of city M. City D is to the south of city C. In which direction is city F with respect to city D?",
     opt1:"North-East",
-    opt2:"South-west",
-    opt3:"North-west",
-    opt4:"South-east",
+    opt2:"South-West",
+    opt3:"North-West",
+    opt4:"South-East",
     status:0
 
 }
@@ -47,7 +47,7 @@ const q5={
 }
 const q6={
     no:6,
-    qus:"Which of the following statements about Plaster of Paris is false?",
+    qus:"Which of the following statements about Plaster of Paris is incorrect?",
     opt1:"It is used to make surfaces smooth before painting.",
     opt2:"It is used in making casts for cosmetics and sculptures.",
     opt3:"It is also known as calcium sulfate dihydrate",
